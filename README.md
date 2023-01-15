@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @lxndrptkv
 - 👀 I’m interested in programming, hardware and animation
-- 🌱 I’m currently learning programming, hardware and animation
-- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me - dont
 
 <!---
